@@ -418,8 +418,5 @@ def detect_face(img):
     return coods
 
 
-# In[ ]:
-
-
 
 
